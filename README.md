@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadilkhan41&label=Profile%20views&color=0e75b6&style=flat" alt="Aadil khan" /> </p>
 
--   🔭 I’m looking for **Job Opportunity**
+-   🔭 I’m looking for Front-End **Job Opportunity**
 
 -   🌱 I’m currently learning **Next.js**
 
